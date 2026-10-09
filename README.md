@@ -53,6 +53,7 @@ Personal-Finance-Manager/
 └── requirements.txt
 ## How to Run
 
+
 Open the project folder in terminal and run:
 
 python main.py
